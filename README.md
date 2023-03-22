@@ -1,4 +1,5 @@
 # emojipedia
+# <a href="https://csb-by7tuq.netlify.app/"> click here to visit the webiste</a>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
